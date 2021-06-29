@@ -1,7 +1,10 @@
-# IPTV
-CQ Australia - TV Over Multicast
+# IPTV - DVBLAST/DVBAPPS/UDPXY
+Local Centreal Queensland TV Over Multicast UDP
 
 To Do List
+
 Comfirm Channels Are working
+
 Get SAP Server Working across the network
+
 Build - Auto Start All Script
