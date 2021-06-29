@@ -40,3 +40,5 @@ cd
 cd IPTV
 
 sudo chmod +x (bash script name here) example - sudo chmod +x Start-ABC.sh
+
+bash script name example - sudo bash Start-ABC.sh
