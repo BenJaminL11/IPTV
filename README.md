@@ -1,5 +1,5 @@
 # IPTV - DVBLAST/DVBAPPS/UDPXY
-Local Centreal Queensland TV Over Multicast UDP
+Local Central Queensland TV Over Multicast UDP
 
 To Do List
 
